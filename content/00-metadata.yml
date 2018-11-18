@@ -1,0 +1,48 @@
+---
+title: Eschede Derailment (June 3rd, 1998, Munich, Germany)
+author: Stanislav Pankevich
+geometry: margin=2cm
+abstract: |
+  This gray paper is a result of a private research done by the author in order
+  to understand the causes of Eschede Catastrophe.
+
+  The research is based on the number of sources including:
+
+  \- "Eschede train disaster", the episode from "Seconds from
+  Disaster" documentary television programme (2004)
+
+  \- Wikipedia article "Eschede derailment", English and German versions
+
+  \- NASA System Failure Case Study - "Derailed" (2007)
+
+  \- NASA Safety Message - "Eschede Train Disaster" (2007)
+
+  \- Paper "Case Description: The ICE Train Accident near Eschede" by Michiel Brumsen (2011).
+
+  While each of these sources is a good overview by itself, the author believes
+  that learning from all of them yields a more complete picture of
+  the Eschede accident. In particular, the "Eschede train disaster" documentary
+  film contains video simulations, that illustrate step by step what has
+  happened, the level of detail that the other sources are missing.
+
+  The text is based on the narration from "Eschede train disaster" film and
+  also contains quotations from Wikipedia pages, "Derailed" NASA System Failure
+  Case Study, "Case Description: The ICE Train Accident near Eschede" paper and
+  some others.
+
+  **Disclaimer**: This paper is only a compilation - it does not add any
+  new information compared to what has been written before. It is not a
+  replacement for all or any of the abovementioned sources. The reader is
+  encouraged to read the official documents when looking for a reliable
+  information.
+
+nocite: |
+  @nasa:safety_message:eschede_train_disaster
+  @documentary:katastrophen_und_konstrukte_zuge
+  @failure_knowledge_database_100_cases
+
+header-includes:
+  - \usepackage{float}
+  - \usepackage{wrapfig}
+  - \usepackage[labelfont=bf]{caption}
+---
